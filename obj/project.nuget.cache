@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qw/o89menSx5/cU3jECkjM8+f9jCBpbA5wQMwNhQ6VB4cNYUFKEkW8ZSR5ACVILr09UMw7zAxAltLsSTWnGJOQ==",
+  "success": true,
+  "projectFilePath": "/Users/tim/dev/onboarding-2024/BookLibrary/BookLibrary.csproj",
+  "expectedPackageFiles": [
+    "/Users/tim/.nuget/packages/spectre.console/0.48.0/spectre.console.0.48.0.nupkg.sha512",
+    "/Users/tim/.nuget/packages/spectre.console.cli/0.48.0/spectre.console.cli.0.48.0.nupkg.sha512",
+    "/Users/tim/.nuget/packages/system.memory/4.5.5/system.memory.4.5.5.nupkg.sha512"
+  ],
+  "logs": []
+}
